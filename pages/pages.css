@@ -1,0 +1,10 @@
+.card-p{
+    border:2px solid rgb(173, 163, 248);
+    width:320px;
+    padding:10px;
+    border-radius:10px;
+}
+
+p{
+    color:rgb(170, 170, 249);
+}
